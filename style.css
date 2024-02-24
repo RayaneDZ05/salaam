@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Katibeh&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Katibeh&family=Readex+Pro:wght@200;300;400;500;600;700&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: 'Poppins' , sans-serif;
+    padding: 0px;
+    margin:0px;
+}
+
+/* body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f3f3f3;
+    justify-content: space-between;
+} */
+
+/* .search{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-between;
+    height: 60px;
+}
+
+.center{
+    border-radius: 20px;
+    background-color:#fff;
+    padding: 1px;
+    box-shadow: 12px 5px 5px 12px rgb(188 202 208 / 20%);
+    margin-left: 40px;
+    margin-right:40px ;
+    padding-top: 20px;
+}
+
+.center ul{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(1fr);
+    grid-column-gap: 90px;
+    list-style: none;
+}
+
+#close{
+background-color: #a6e7d8;
+border-radius: 7px;
+width: 40px;
+padding: 5px;
+
+} */
+
+
+
+.section{
+    display : flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+   
+   
+
+
+}
+#trans{
+    font-size:40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #7A1821;
+}
+#trans span{
+    color:#008767;
+}
+.welcom{
+    display: flex;
+    justify-content: space-around;
+
+}
+#img1{
+    width: 170px;
+    height: 270px;
+}
+.salam{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.salam p{
+    font-size: 30px;
+}
+
+.salam button{
+    border:none;
+    border-radius: 7px;
+    padding:12px 15px 12px 15px;
+    color:white;
+    background-color: #7A1821;
+}
+
+.salam button:hover{
+    scale: 1.1;
+    background-color: crimson;
+    cursor: pointer;
+    transition: 0.8s;
+}
+
+
+
+.aboutus{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.aboutus p{
+    font-size: 20px;
+}
+
+.aboutus h4{
+    font-size: 30px;
+    color: #7A1821;
+
+}
+
+
+.what{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.what img{
+    width: 380px;
+    height: 380px;
+}
+
+.beta h4{
+    font-size: 30px;
+    color: #7A1821;
+}
+.beta p{
+    font-size: 20px;
+}
+
+
+.sowhat{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5%;
+}
+.sowhat img{
+    width:350px;
+}
+
+
+.invi h4{
+    font-size: 30px;
+    color: #7A1821;
+}
+.invi p{
+    font-size: 20px;
+}
+
+.here{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5%;
+}
+.this h4{
+    font-size: 30px;
+    color:#7A1821;
+}
+.this span{
+    color: #00B087;
+}
+
+.this p{
+    font-size: 20px;
+}
+
+
+
+
+#drop {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 40px;
+    color: #00B087;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
